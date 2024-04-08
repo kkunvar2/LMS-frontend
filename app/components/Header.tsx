@@ -13,7 +13,7 @@ const Header: FC<Props> = (props) => {
     const [openSidebar, setopenSidebar] = useState(false)
 
   return (
-    <div className='w-full relative'>
+    <div className='w-full relative  '>
         {/* <div className={`${sctive ? "dark:"}`}></div> */}
     </div>
   )
